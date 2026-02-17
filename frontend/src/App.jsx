@@ -167,7 +167,7 @@ function App() {
       title={`Back to ${targetView}`}
     >
       <div className="back-btn-icon">
-        <ArrowLeft size={18} />
+        <ArrowLeft size={16} />
       </div>
       <span className="back-btn-text">{label}</span>
     </div>
