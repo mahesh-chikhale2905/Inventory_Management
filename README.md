@@ -8,6 +8,30 @@
 
 ---
 
+## 📸 Visual Walkthrough
+
+| **Dashboard Overview** | **Inventory List** |
+|:---:|:---:|
+| ![Step 1](./frontend/src/assets/img1.png) | ![Step 2](./frontend/src/assets/img2.png) |
+
+| **Category Management** | **Low Stock Alerts** |
+|:---:|:---:|
+| ![Step 3](./frontend/src/assets/img3.png) | ![Step 4](./frontend/src/assets/img4.png) |
+
+| **Adding New Product** | **Product Analysis** |
+|:---:|:---:|
+| ![Step 5](./frontend/src/assets/img5.png) | ![Step 6](./frontend/src/assets/img6.png) |
+
+| **Stock Updates** | **Performance Tracking** |
+|:---:|:---:|
+| ![Step 7](./frontend/src/assets/img7.png) | ![Step 8](./frontend/src/assets/img8.png) |
+
+| **User Authentication** | **System Notifications** |
+|:---:|:---:|
+| ![Step 9](./frontend/src/assets/img9.png) | ![Step 10](./frontend/src/assets/img10.png) |
+
+---
+
 ## ✨ Key Features
 
 ### 📊 Intelligence Dashboard

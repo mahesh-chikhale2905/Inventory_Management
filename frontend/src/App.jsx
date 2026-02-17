@@ -812,7 +812,7 @@ function App() {
             {renderBackButton('dashboard')}
             <div className="header-info">
               <h1>Product Categories</h1>
-              <p>Organize and manage your inventory by category groups.</p>
+              <p>Organize and manage your {categories.length} category groups.</p>
             </div>
           </div>
           <button className="btn-primary" onClick={() => setCurrentView('add-category')}>
